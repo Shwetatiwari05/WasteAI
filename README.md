@@ -10,6 +10,8 @@ A deep learning-based waste classification web app that identifies waste type fr
 
 WasteAI classifies waste images into 6 categories and tells whether the item is recyclable or not. It uses transfer learning with MobileNetV2 trained on the TrashNet dataset.
 
+We achieved an **Accuracy of 85.56%**
+
 ---
 
 ## 🗂️ Waste Categories
