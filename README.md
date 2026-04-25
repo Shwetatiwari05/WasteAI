@@ -9,6 +9,7 @@ A deep learning web app that classifies waste into 6 categories in real-time usi
 ## 📌 Overview
 
 WasteAI takes an image (uploaded or from webcam) and classifies it into one of 6 waste categories, along with recyclability status, confidence score, and eco tips. Built using transfer learning on MobileNetV2 pretrained on ImageNet, fine-tuned on the TrashNet dataset.
+
 We also achieved an **Accuracy of 85.56%**
 
 ---
